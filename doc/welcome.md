@@ -7,10 +7,13 @@
 
 **Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away.
 
-### Agenda
-1. Sample
-1. Sample
+**Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
-#### Additional Resources
-1. Sample
-1. Sample
+### Agenda
+1. Azure Compute options Overview 
+1. Azure App Service Overview
+1. Demo: Web App Deployment to App Service 
+1. Azure AKS Overview
+1. Demo: Web App Deployment to AKS
+
+
