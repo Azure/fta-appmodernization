@@ -10,10 +10,10 @@
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
 ### Agenda
-1. Azure Compute options Overview 
-1. Azure App Service Overview
+1. [Azure Compute options Overview](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+1. [Azure App Service Overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
 1. Demo: Web App Deployment to App Service 
-1. Azure AKS Overview
+1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 1. Demo: Web App Deployment to AKS
 
 
