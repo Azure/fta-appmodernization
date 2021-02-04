@@ -12,8 +12,8 @@
 ### Agenda
 1. [Azure Compute options Overview](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 1. [Azure App Service Overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
-1. Demo: Web App Deployment to App Service 
+1. [Demo: Web App Deployment to App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnet-framework)
 1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
-1. Demo: Web App Deployment to AKS
+1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)
 
 
