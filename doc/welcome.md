@@ -10,12 +10,12 @@
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
 ### Agenda
-1. [Intro to FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack/)
-1. [Common App Modernization Scenarios](https://azure.microsoft.com/en-us/solutions/modern-application-development/#overview)
-1. [Azure Compute options Overview](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
-1. [Azure App Service Overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
-1. [Demo: Web App Deployment to App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnet-framework)
-1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
-1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)
+1. [Intro to FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack/) - 5 min
+1. [Common App Modernization Scenarios](https://azure.microsoft.com/en-us/solutions/modern-application-development/#overview) - 10 min
+1. [Azure Compute options Overview](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) - 10 min
+1. [Azure App Service Overview](https://docs.microsoft.com/en-us/azure/app-service/overview) - 10 min
+1. [Demo: Web App Deployment to App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnet-framework) - 15 min
+1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) - 15 min
+1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app) - 20 min
 
 
