@@ -16,4 +16,6 @@
 1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) - 15 min
 1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough) - 20 min
 
+---
 
+**FastTrack for Azure** is a technical enablement program included with your Azure subscription that helps with rapid and effective design and deployment of cloud solutions. It includes tailored guidance from Azure engineers to provide proven practices and architectural guidance.  Please see: https://azure.microsoft.com/en-us/programs/azure-fasttrack for more details.
