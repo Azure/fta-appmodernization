@@ -14,6 +14,6 @@
 1. [Azure App Service Overview](https://docs.microsoft.com/en-us/azure/app-service/overview) - 10 min
 1. [Demo: Web App Deployment to App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnet-framework) - 15 min
 1. [Azure AKS Overview](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) - 15 min
-1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app) - 20 min
+1. [Demo: Web App Deployment to AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough) - 20 min
 
 
